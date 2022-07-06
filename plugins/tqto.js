@@ -10,6 +10,7 @@ BIG THANKS TO
 •AlyaaXzy 
 •BOTCAHX (Tio)
 •Zeks
+•Nanang
 •Penyedia Layanan API
 •Orang-orang yang Berdonasi
 `.trim(), watermark, 'Back', '.menu')
